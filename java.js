@@ -15,7 +15,7 @@ console.log(price)
 let reviews = [];
 function AddGameData()
 {
-    let NewGame = {
+    let NewGame = { //test
         rating,
         name,
         release,
